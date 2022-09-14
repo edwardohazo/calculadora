@@ -1,7 +1,7 @@
 .App {
-  height: 100vh;
+  height: 140vh;
   padding-top: 10px;
-  background-color: #1b1b32;
+  background-color: orange;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -19,7 +19,7 @@
 }
 
 .freecodecamp-logo {
-  height: 40px;
+  height: 150px;
 }
 
 .contenedor-calculadora {
